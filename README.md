@@ -1,2 +1,2 @@
 # GM-vPro
-Adicionar /gm no seu servidor
+Facilita usar /gamemode usando /gm
